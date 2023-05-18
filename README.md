@@ -10,7 +10,7 @@ Image Showcase is a visually stunning web application that allows you to showcas
 
 # Getting Started
 
-To explore the Product Showcase website, please visit the link :- --link--
+To explore the Product Showcase website, please visit the link :- https://anantagg.github.io/Captivating-Image-Showcase-A-Stylish-HTML-CSS-Web-Project/
 
 # Contributing
 Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request. Let's make this project even better together.
